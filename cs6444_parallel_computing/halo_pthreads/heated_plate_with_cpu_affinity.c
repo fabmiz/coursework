@@ -291,6 +291,7 @@ void create_snapshot(float **cells, int num_cols, int num_rows, int id) {
 	}
 	
 	// Close the file
+	printf("Closing file...\n");
 	fclose(out);
 }
 
