@@ -296,6 +296,7 @@ int main(int argc, char **argv) {
 		printf("\nRank: %d. Total IO time: %.3f seconds\n", rank, total_io_time);
 
 	}
+	printf("Rank: %d. Done.", rank);
 	MPI_Finalize();
 	return 0;
 }
