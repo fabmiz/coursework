@@ -1,7 +1,7 @@
 void main2();
 void main(){ main2();}
 
-int CurrentProcess;
+int CurrentProcess; //currently running process
 
 typedef struct{
   int active;
