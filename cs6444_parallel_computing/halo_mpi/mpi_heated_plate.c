@@ -19,8 +19,8 @@
 #define hotSpotRow 4500
 #define hotSptCol 6500
 #define hotSpotTemp 1000
-#define NUMROWS 10000
-#define NUMCOLS 10000
+#define NUMROWS 1000
+#define NUMCOLS 1000
 #define MASTER 0
 
 // Function prototypes
