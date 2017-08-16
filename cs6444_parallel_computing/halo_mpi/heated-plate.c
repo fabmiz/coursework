@@ -27,6 +27,7 @@ void print_cells(float **cells, int n_x, int n_y);
 void initialize_cells(float **cells, int n_x, int n_y);
 void create_snapshot(float **cells, int n_x, int n_y, int id);
 float **allocate_cells(int n_x, int n_y);
+
 void die(const char *error);
 
 
