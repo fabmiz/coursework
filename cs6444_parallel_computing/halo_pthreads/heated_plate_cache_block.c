@@ -5,6 +5,7 @@
 // For example, to execute with a 500 x 500 grid for 250 iterations, use:
 //  ./heated_plate_sequential 500 500 250
 
+
 #define _GNU_SOURCE
 #include <stdlib.h>
 #include <stdio.h>
